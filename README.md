@@ -7,7 +7,7 @@ Zheng's version adapts the Schelling segregation model to reflect more about rac
 
 By default, the proportion of similar neighbors and the maximum income gap the agents need to be happy is set to 3/8. That means the agents would be perfectly happy with a majority of their neighbors being of a different color and the neighbors are less wealthy than them(e.g. a Blue agent would be happy with five Green neighbors and three Blue ones and their average wealth is not considerably lower). Despite this, the model consistently leads to a high degree of segregation, with most agents ending up with no neighbors of a different color and poor agents are isolated.
 
-This model also offers three different update scheme to choose.
+This model also offers three different update schemes to choose.
 
 ## Installation
 
